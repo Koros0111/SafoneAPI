@@ -61,25 +61,25 @@ class InvalidRequest(BaseError):
     """
     Raised when an invalid request is made.
     """
-    message = "Invalid Request, Please read docs: https://api.safone.co/redoc"
+    message = "Invalid Request, Please read docs: https://api.safone.vip/redoc"
 
 
 class InvalidContent(BaseError):
     """
     Raised when the content of the response is invalid.
     """
-    message = "Invalid Content, Please report this: https://api.safone.co/report"
+    message = "Invalid Content, Please report this: https://api.safone.vip/report"
 
 
 class GenericApiError(BaseError):
     """
     Raised when the API returns an error that is not handled by this library.
     """
-    message = "Api Call Failed, Please report this: https://api.safone.co/report"
+    message = "Api Call Failed, Please report this: https://api.safone.vip/report"
 
 
 class ConnectionError(BaseError):
     """
     Raised when a connection error occurs.
     """
-    message = "Failed to communicate server, Please report this: https://api.safone.co/report"
+    message = "Failed to communicate server, Please report this: https://api.safone.vip/report"

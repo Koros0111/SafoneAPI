@@ -22,8 +22,8 @@ setuptools.setup(
     author_email="asmsafone@gmail.com",
     url="https://github.com/AsmSafone/SafoneAPI",
     project_urls={
-        "Homepage": "https://api.safone.co",
-        "Documentation": "https://api.safone.co/docs",
+        "Homepage": "https://api.safone.vip",
+        "Documentation": "https://api.safone.vip/docs",
         "Issue Tracker": "https://github.com/AsmSafone/SafoneAPI/issues",
     },
     keywords=["API", "SafoneAPI", "Safone-API", "Safone_API"],

@@ -45,8 +45,8 @@ print(help(SafoneAPI.logo))
 ```
 
 2. Visit our online resources:
-- [API Playground](https://api.safone.co/docs)
-- [Read the Docs](https://api.safone.co/redoc)
+- [API Playground](https://api.safone.vip/docs)
+- [Read the Docs](https://api.safone.vip/redoc)
 
 ## 🛠️ Available APIs
 
